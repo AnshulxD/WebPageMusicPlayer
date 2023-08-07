@@ -36,17 +36,17 @@ function createTrackItem(index,name,duration){
   var listAudio = [
     {
         name: "Mustafa Zahid - Hum Jee Lenge (Rock) - Murder 3",
-        file: "./Hum Jee Lenge (Rock) - Murder 3 Official New Song Video feat. Mustafa Zahid.mp3",
+        file: "./songs/Hum Jee Lenge (Rock) - Murder 3 Official New Song Video feat. Mustafa Zahid.mp3",
         duration: "08:47"    
     },
     {
         name: "Omer Nadeem feat. Khiza - Ek Baari",
-        file: "./Omer Nadeem feat. Khiza  Ek Baari (One Time) [cover].mp3",
+        file: "./songs/Omer Nadeem feat. Khiza  Ek Baari (One Time) [cover].mp3",
         duration: "08:47"    
     },
     {
         name: "The Local Train - Choo Lo",
-        file: "./The Local Train - Aalas Ka Pedh - Choo Lo (Official Audio).mp3",
+        file: "./songs/The Local Train - Aalas Ka Pedh - Choo Lo (Official Audio).mp3",
         duration: "08:47"    
     },
 ]
